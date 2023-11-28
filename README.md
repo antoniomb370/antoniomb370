@@ -23,6 +23,7 @@
 <h2>Contacto</h2>
 
 [![email](https://img.icons8.com/plasticine/100/gmail.png)](mailto:antonioobarragan370@gmail.com)
+
 <p><img width="55" height="55" src="https://img.icons8.com/cotton/64/phone-message.png" alt="phone-message"/> +573124382318</p>
 
   <h2>Redes Sociales</h2>
