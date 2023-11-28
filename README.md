@@ -22,9 +22,9 @@
 
 <h2>Contacto</h2>
 <ul>
-  <li>📞 +573124382318</li>
-  <li>📧 antonioobarragan370@gmail.com</li>
-  <li>📍 Ibagué, Colombia</li>
+  <li><img width="64" height="64" src="https://img.icons8.com/cotton/64/phone-message.png" alt="phone-message"/> +573124382318</li>
+  <li><img width="100" height="100" src="https://img.icons8.com/plasticine/100/gmail.png" alt="gmail"/> antonioobarragan370@gmail.com</li>
+  <li><img width="48" height="48" src="https://img.icons8.com/fluency/48/maps.png" alt="maps"/> Ibagué, Colombia</li>
 </ul>
 
 <h2>Redes Sociales</h2>
