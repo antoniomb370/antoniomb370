@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Hola, soy Antonio Marroquín 👋</h1>
 
-<!--
-**antoniomb370/antoniomb370** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Soy un Desarrollador Full Stack apasionado por la tecnología, la robótica, el desarrollo web y los videojuegos. Me encanta aprender de forma autónoma y estoy siempre al tanto de las tecnologías emergentes.</p>
 
-Here are some ideas to get you started:
+<h2>Contacto</h2>
+<ul>
+  <li>📞 +573124382318</li>
+  <li>📧 antonioobarragan370@gmail.com</li>
+  <li>📍 Ibagué, Colombia</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Redes Sociales</h2>
+<ul>
+  <li>GitHub: <a href="https://github.com/antoniomb370">antoniomb370</a></li>
+  <li>LinkedIn: <a href="https://linkedin.com/in/antonio-marroquin-barragán">antonio-marroquin-barragán</a></li>
+</ul>
+
+<!-- Puedes continuar con el resto de tu perfil aquí -->
