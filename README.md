@@ -20,30 +20,15 @@
   <p><img width="55" height="55" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui"/> UI/UX: Diseño de interfaces y experiencia de usuario.</p>
 
 
-
 <h2>Contacto</h2>
 
-<button><
-
-  <p><img width="55" height="55" src="https://img.icons8.com/cotton/64/phone-message.png" alt="phone-message"/> +573124382318</p>
-  <p><img width="55" height="55" src="https://img.icons8.com/plasticine/100/gmail.png" alt="gmail"/> antonioobarragan370@gmail.com</p>
-  <p><img width="55" height="55" src="https://img.icons8.com/fluency/48/maps.png" alt="maps"/> Ibagué, Colombia</p>
-
-
-<h2>Redes Sociales</h2>
-
-  <p><img width="55" height="55" src="https://img.icons8.com/color/48/github--v1.png" alt="github--v1"/> <a href="https://github.com/antoniomb370" style="text-decoration: none;">antoniomb370</a></p>
-  <p><img width="55" height="55" src="https://img.icons8.com/dusk/64/linkedin--v1.png" alt="linkedin--v1"/> <a href="https://linkedin.com/in/antonio-marroquin-barragán" style="text-decoration: none;">antonio-marroquin-barragán</a></p>
-
-
-<h2>Contacto</h2>
-
-[![phone](https://img.icons8.com/cotton/64/phone-message.png)](tel:+573124382318)
 [![email](https://img.icons8.com/plasticine/100/gmail.png)](mailto:antonioobarragan370@gmail.com)
-[![location](https://img.icons8.com/fluency/48/maps.png)](https://www.google.com/maps?q=Ibagué,+Colombia)
+<p><img width="55" height="55" src="https://img.icons8.com/cotton/64/phone-message.png" alt="phone-message"/> +573124382318</p>
 
-<h2>Redes Sociales</h2>
-
-[![github](https://img.icons8.com/color/48/github--v1.png)](https://github.com/antoniomb370)
+  <h2>Redes Sociales</h2>
+  
 [![linkedin](https://img.icons8.com/dusk/64/linkedin--v1.png)](https://linkedin.com/in/antonio-marroquin-barragán)
+
+
+
 
