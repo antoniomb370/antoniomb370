@@ -14,23 +14,23 @@
   <li><img src="https://img.icons8.com/color/48/000000/test-tube.png"/> TESTING: Control de calidad de software.</li>
   <li><img src="https://img.icons8.com/color/48/000000/react-native.png"/> React: Desarrollo de interfaces web dinámicas.</li>
   <li><img src="https://img.icons8.com/color/48/000000/github--v1.png"/> GitHub: Colaboración y control de versiones.</li>
-  <li><img width="64" height="64" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-scrum-agile-flaticons-flat-flat-icons-6.png" alt="external-scrum-agile-flaticons-flat-flat-icons-6"/> Metodologías Ágiles Scrum: Gestión de proyectos de software.</li>
-  <li><img width="48" height="48" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui"/> UI/UX: Diseño de interfaces y experiencia de usuario.</li>
+  <li><img width="55" height="55" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-scrum-agile-flaticons-flat-flat-icons-6.png" alt="external-scrum-agile-flaticons-flat-flat-icons-6"/> Metodologías Ágiles Scrum: Gestión de proyectos de software.</li>
+  <li><img width="55" height="55" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui"/> UI/UX: Diseño de interfaces y experiencia de usuario.</li>
 </ul>
 
 
 
 <h2>Contacto</h2>
 <ul>
-  <li><img width="64" height="64" src="https://img.icons8.com/cotton/64/phone-message.png" alt="phone-message"/> +573124382318</li>
-  <li><img width="100" height="100" src="https://img.icons8.com/plasticine/100/gmail.png" alt="gmail"/> antonioobarragan370@gmail.com</li>
-  <li><img width="48" height="48" src="https://img.icons8.com/fluency/48/maps.png" alt="maps"/> Ibagué, Colombia</li>
+  <li><img width="55" height="55" src="https://img.icons8.com/cotton/64/phone-message.png" alt="phone-message"/> +573124382318</li>
+  <li><img width="55" height="55" src="https://img.icons8.com/plasticine/100/gmail.png" alt="gmail"/> antonioobarragan370@gmail.com</li>
+  <li><img width="55" height="55" src="https://img.icons8.com/fluency/48/maps.png" alt="maps"/> Ibagué, Colombia</li>
 </ul>
 
 <h2>Redes Sociales</h2>
 <ul>
-  <li> <img width="48" height="48" src="https://img.icons8.com/color/48/github--v1.png" alt="github--v1"/>  <a href="https://github.com/antoniomb370">antoniomb370</a></li>
-  <li><img width="64" height="64" src="https://img.icons8.com/dusk/64/linkedin--v1.png" alt="linkedin--v1"/> <a href="https://linkedin.com/in/antonio-marroquin-barragán">antonio-marroquin-barragán</a></li>
+  <li> <img width="55" height="55" src="https://img.icons8.com/color/48/github--v1.png" alt="github--v1"/>  <a href="https://github.com/antoniomb370">antoniomb370</a></li>
+  <li><img width="55" height="55" src="https://img.icons8.com/dusk/64/linkedin--v1.png" alt="linkedin--v1"/> <a href="https://linkedin.com/in/antonio-marroquin-barragán">antonio-marroquin-barragán</a></li>
 </ul>
 
 <!-- Puedes continuar con el resto de tu perfil aquí -->
