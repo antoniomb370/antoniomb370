@@ -14,8 +14,8 @@
   <li><img src="https://img.icons8.com/color/48/000000/test-tube.png"/> TESTING: Control de calidad de software.</li>
   <li><img src="https://img.icons8.com/color/48/000000/react-native.png"/> React: Desarrollo de interfaces web dinámicas.</li>
   <li><img src="https://img.icons8.com/color/48/000000/github--v1.png"/> GitHub: Colaboración y control de versiones.</li>
-  <li><img src="https://img.icons8.com/color/48/000000/agile.png"/> Metodologías Ágiles Scrum: Gestión de proyectos de software.</li>
-  <li><img src="https://img.icons8.com/color/48/000000/user-interface.png"/> UI/UX: Diseño de interfaces y experiencia de usuario.</li>
+  <li><img width="64" height="64" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-scrum-agile-flaticons-flat-flat-icons-6.png" alt="external-scrum-agile-flaticons-flat-flat-icons-6"/> Metodologías Ágiles Scrum: Gestión de proyectos de software.</li>
+  <li><img width="48" height="48" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui"/> UI/UX: Diseño de interfaces y experiencia de usuario.</li>
 </ul>
 
 
