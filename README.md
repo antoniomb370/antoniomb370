@@ -3,6 +3,8 @@
 <p>Soy un Desarrollador Full Stack apasionado por la tecnología, la robótica, el desarrollo web y los videojuegos. Me encanta aprender de forma autónoma y estoy siempre al tanto de las tecnologías emergentes.</p>
 
 
+
+
 <h2>Habilidades</h2>
 <ul>
   <li><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> JAVA: Programación versátil y orientada a objetos.</li>
@@ -33,4 +35,7 @@
   <li><img width="55" height="55" src="https://img.icons8.com/dusk/64/linkedin--v1.png" alt="linkedin--v1"/> <a href="https://linkedin.com/in/antonio-marroquin-barragán">antonio-marroquin-barragán</a></li>
 </ul>
 
-<!-- Puedes continuar con el resto de tu perfil aquí -->
+## Estadísticas de GitHub
+
+![Estadísticas de GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=antoniomb370&show_icons=true&theme=radical)
+
